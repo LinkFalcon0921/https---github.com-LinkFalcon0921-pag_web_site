@@ -5,9 +5,10 @@ function into_dark() {
 //   Body color
   document.body.classList.toggle(tagClass);
 
-  for (let index = 0; index < docs.length; index++) {
-    const tr = docs.item(index);
-  }
+  //unusele ss
+  // for (let index = 0; index < docs.length; index++) {
+  //   const tr = docs.item(index);
+  // }
 //   Functions to other elements
     dark_nav_space()
     dark_icon_mode()
